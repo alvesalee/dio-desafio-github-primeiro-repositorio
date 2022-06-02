@@ -1,0 +1,8 @@
+Javascript - Linguagem de programação usada para dar o dinamismo as paginas. 
+Permite implementar itens complexos em paginas da web, usado para controlar o HTML, CSS, manipular os comportamentos da pagina. Toda vez que uma pagina web faz mais que simplesmente mostrar a voce informação estatica, mostrando conteudo que se atualiza em um intervalo de tempo, mapas interarivos ou graficos 2D/3D animados e etc.
+
+Link com o basico do JavaScript :
+https://www.w3schools.com/js/
+
+Treinar javascript:
+https://codepen.io/
