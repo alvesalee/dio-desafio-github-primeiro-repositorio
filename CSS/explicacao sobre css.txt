@@ -1,0 +1,12 @@
+#CSS- (Cascading Style Sheets- Folha de estilo em Cascata)
+
+Sua aplicação é utilizada na estilização de componentes escritos em linguagem de marcação 
+ Utilizada para definiir fontes, tamanhos cores, posicionamento ou qualquer outros valores estaticos para os elementos da pagina.
+
+##Links para consultar e treinar o CSS:
+
+https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css
+
+https://devporai.com.br/como-treinar-css-com-jogos-online/
+
+https://codepen.io/manz/pen/zoREJL
