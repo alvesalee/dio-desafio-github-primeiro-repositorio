@@ -1,0 +1,22 @@
+HTML(HyperText Markup Language) - Linguagem de marcação de texto
+é o codigo que você usa para estruturar uma pagina web e seu conteudo.
+Por exemplo o conteudo pode ser estruturado em paragrafos, em uma lista com varias tabelas, marcadores ou usando imagem 
+
+Links de consulta com códigos html 
+https://www.w3schools.com/html/
+https://www.devmedia.com.br/html-basico-codigos-html/16596 
+
+Exemplo de uma estrutura basica de html:
+
+<!DOCTYPE html>
+<html>
+	<head>
+    <title> </title>		
+	</head>
+		<body>
+
+		</body>
+</html>
+
+Algumas tags especiais do html:
+
